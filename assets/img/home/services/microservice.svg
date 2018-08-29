@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>F51CEFF9-D686-47E0-9A8C-A7C2EDC30A2E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+        <filter x="-6.9%" y="-6.9%" width="116.2%" height="116.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1.87192506,3.47556357 C0.978174104,-3.56106359 26.7921726,2.02429343 28.2950504,3.47556357 C29.7979282,4.92683371 31.5228754,9.32365053 30.6361618,14.4953643 C29.7494483,19.667078 30.6361618,27.420739 28.2950504,29.8986889 C25.953939,32.3766389 6.49941251,29.8986889 1.87192506,29.8986889 C-2.75556239,29.8986889 2.76567601,10.5121907 1.87192506,3.47556357 Z" id="path-3"></path>
+    </defs>
+    <g id="Paketo-Website-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-Hercules-Mobile" transform="translate(-174.000000, -3057.000000)">
+            <g id="Group-18-Copy-2" transform="translate(177.000000, 3060.000000)">
+                <g id="Rectangle-7-Copy-10">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#E0E0E0" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="79" height="79"></rect>
+                </g>
+                <g id="Group-14" transform="translate(3.000000, 8.000000)">
+                    <text id="Microservices-and-Ar" font-family="Roboto-Medium, Roboto" font-size="6" font-weight="400" line-spacing="11" fill="#393939">
+                        <tspan x="13.2453832" y="6.67479675">Microservices and </tspan>
+                        <tspan x="7.34645738" y="17.6747967">Architectural Evolution</tspan>
+                    </text>
+                    <g id="Group-21" transform="translate(20.329268, 32.674797)">
+                        <g id="pattern/cube" transform="translate(1.630799, 0.000000)">
+                            <g id="color/light-Purple">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Mask" fill="#CCBFF6" xlink:href="#path-3"></use>
+                                <g mask="url(#mask-4)" fill="#CCBFF6" id="Rectangle">
+                                    <g transform="translate(-0.794872, -0.794872)">
+                                        <rect x="0" y="0" width="34" height="34"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-48" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                            <rect id="Rectangle-path" x="0" y="11.0798851" width="6.37494022" height="9.30710352"></rect>
+                            <rect id="Rectangle-path" x="24.1654711" y="0" width="6.96795791" height="6.94339469"></rect>
+                            <rect id="Rectangle-path" x="24.1654711" y="12.2617396" width="6.96795791" height="6.94339469"></rect>
+                            <rect id="Rectangle-path" x="24.1654711" y="24.6712109" width="6.96795791" height="6.94339469"></rect>
+                            <polyline id="Shape" fill-rule="nonzero" points="2.81683405 8.27298091 2.81683405 2.80690424 19.5695839 2.80690424"></polyline>
+                            <polyline id="Shape" fill-rule="nonzero" points="2.81683405 23.9325519 2.81683405 29.103165 19.5695839 29.103165"></polyline>
+                            <path d="M8.45050215,15.9550346 L19.7178384,15.9550346" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <polyline id="Shape" points="18.4778923 1.03412261 20.4591105 2.94327205 18.3835485 4.57968586"></polyline>
+                            <polyline id="Shape" points="18.4778923 14.0345212 20.4591105 15.9436706 18.3835485 17.5800844"></polyline>
+                            <polyline id="Shape" points="18.4778923 27.3303834 20.4591105 29.2395328 18.3835485 30.8759466"></polyline>
+                        </g>
+                        <path d="M20.4057909,15.8073028 L9.48438169,15.8073028" id="Line-6" stroke="#1A1A1A" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
